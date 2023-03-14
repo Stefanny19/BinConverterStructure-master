@@ -1,3 +1,6 @@
+package Bin2DecConverter;
+
+import Bin2DecConverter.Converter;
 import Tools.LinkedList;
 
 import java.util.Scanner;

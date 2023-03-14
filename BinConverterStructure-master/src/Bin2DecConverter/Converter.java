@@ -1,3 +1,5 @@
+package Bin2DecConverter;
+
 import Tools.LinkedList;
 import Tools.Node;
 
